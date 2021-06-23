@@ -1,2 +1,2 @@
-# projeto1_FrontEnd_DH
-Projeto 1 de FrontEnd  da Digital House
+# frontEndI_DH
+Atividades propostas pela Digital House para a aula de Front-End I
